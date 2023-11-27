@@ -1,5 +1,5 @@
- #Specturm Classes
+#*Specturm Classes*
  
  live at : https://specturmclasses.netlify.app/
 
- ##Made using HTML and TailwindCSS
+##Made using HTML and TailwindCSS
